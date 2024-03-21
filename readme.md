@@ -1,7 +1,7 @@
-# NUMARK MIXSTREAM PRO 3.3.0 CUSTOM FIRMWARE. (RE-UP MARCH 21 2024)
+# NUMARK MIXSTREAM PRO 3.3.0 CUSTOM FIRMWARE. (MARCH 21 2024)
 # (BUG FIXES AND CUE / PLAY LED FIXES)
 
-	# wee!!!! engine dj is FUN!!
+	# wee!!!! engine dj is FUN!! i fricking love this rom, mpc sucks compared to this project. 
 
 	Fixed:
 		the couple of LED's I forgot, when remapping some controls and disabled "smart scratch" being on by default.
